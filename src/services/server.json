@@ -1,0 +1,368 @@
+{
+  "latest_news": [
+    {
+      "id": "5da60dd5-8f93-4899-8d7f-9417f2b9e53a",
+      "category": "Séries", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://cdn.ome.lt/iy6g36PKlFpGI7Tau418xBtTiBE=/1200x630/smart/extras/conteudos/ricknegan_XD7dm3O.jpg"
+    },
+    {
+      "id": "e7c11c96-e821-4796-963c-a6a786f92763",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://www.gannett-cdn.com/presto/2021/02/06/PFSU/b009d431-cc9a-4a12-9073-944f3c2bd0fe-Attack-On-Titan-Season-4-Episode-5-Release-Date-And.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "id": "8219b540-a4a7-4120-84f6-e6dfb2e039ec",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://sm.ign.com/ign_br/blogroll/l/league-of-/league-of-legends-mobile-new-screenshots-and-gameplay_sajh.jpg"
+    }
+  ],
+
+  "daily_news": [
+    {
+      "id": "9cd0d2a8-9ead-4d81-b95d-a44d1e464444",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://c4.wallpaperflare.com/wallpaper/146/91/708/anime-naruto-nagato-naruto-pain-naruto-wallpaper-thumb.jpg"
+    },
+    {
+      "id": "a1932bb7-8481-43dc-9f4b-79132501918b",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://poltronanerd.com.br/wp-content/uploads/2021/08/deadpool.jpg"
+    },
+    {
+      "id": "57862604-711b-480f-900f-59b705dd79f6",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://wallup.net/wp-content/uploads/2016/01/20309-Minecraft-video_games-Steve-skeleton-pigs.jpg"
+    },
+    {
+      "id": "ee4bfdd5-1629-458d-8589-ea9e9aa01140",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://godrichollowhome.files.wordpress.com/2019/03/running-through-the-woods.jpg"
+    },
+    {
+      "id": "cf8f44bd-8930-436b-913d-72ea64a27046",
+      "category": "Séries", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/09/legiao_i8wa3yc2Fpfj.jpg.jpeg"
+    },
+    {
+      "id": "36547a91-db9e-4e69-af95-fe2156c96ed9",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://c4.wallpaperflare.com/wallpaper/146/91/708/anime-naruto-nagato-naruto-pain-naruto-wallpaper-thumb.jpg"
+    },
+    {
+      "id": "f33242e3-4947-41a1-9c65-82926ff0f7ef",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://poltronanerd.com.br/wp-content/uploads/2021/08/deadpool.jpg"
+    },
+    {
+      "id": "bc1e43c5-7278-4df1-a911-7cafeff703bf",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://wallup.net/wp-content/uploads/2016/01/20309-Minecraft-video_games-Steve-skeleton-pigs.jpg"
+    },
+    {
+      "id": "f73c29dd-800f-4ec5-8394-d022642fac0e",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://godrichollowhome.files.wordpress.com/2019/03/running-through-the-woods.jpg"
+    },
+    {
+      "id": "19a5c662-fa17-4d50-9de9-6429e1f92b01",
+      "category": "Séries", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/09/legiao_i8wa3yc2Fpfj.jpg.jpeg"
+    }
+  ],
+
+  "weekly_news": [
+    {
+      "id": "89881f6e-630c-47e2-a3ab-442839674390",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbRsTIormqjoz9V_08GJbcQCOfPi49i2uIDm6BksgCe09N_Alh7dCAMFZy_O4kA-vGB8_V6iszQMC6go_BEdr-klDLxw.jpg?r=8cc"
+    },
+    {
+      "id": "d6ea7a7c-f305-41b4-87f2-3cb0c6e954c7",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://static01.nyt.com/images/2020/10/05/arts/05social-network01/05social-network01-superJumbo-v3.jpg"
+    },
+    {
+      "id": "cf38a8c2-a967-4f5e-bf06-cfbdc48735c5",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://a-static.besthdwallpaper.com/god-of-war-kratos-och-havsorm-tapet-2800x2100-18712_28.jpg"
+    }
+  ],
+
+  "most_recent_news": [
+    {
+      "id": "2a21fbbd-e9a4-4c14-814f-0d0ca290c12a",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://cdn.vox-cdn.com/thumbor/SgV4D-ew5S-EjifVrSTVep_RkQI=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20010160/GHI_WindRises_Select4.jpg"
+    },
+    {
+      "id": "cffbea46-8214-4b3a-8783-bf61f908502f",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://viciados.net/wp-content/uploads/2021/04/GTA-5-PlayStation-5-Rockstar-Games-Sony-2021.jpg"
+    },
+    {
+      "id": "6ae1f98f-19d9-4bbe-96d8-9edd21699ef3",
+      "category": "Séries", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/524/451/BRAND_THC_VIKG_195080_TVE_000_2398_060_20161128_00_HD.jpg"
+    },
+    {
+      "id": "cdaea55a-ad10-4732-bfa6-aec776f0a684",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://post-phinf.pstatic.net/MjAyMDEwMjhfMjUg/MDAxNjAzODYyNDEwMjA3.YdZ_kglzKsGxbrMfB8YeXfeujr1GP5zty_itPq-qwwEg.3DLl9RpTJv-l9QgW2n1L4c-Ki0O9P0k0bYd69HWcq_Eg.PNG/5.png"
+    },
+    {
+      "id": "c3f9581a-5ca4-455e-ac19-7a714ca348a0",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "http://modomeu.com/wp-content/uploads/2018/11/kimi-no-na-wa-your-name-makoto-shinkai-cover.jpg"
+    },
+    {
+      "id": "93fa3a16-47d4-439a-ac13-e0d7ba309a09",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://s2.glbimg.com/cf5AJdM5xnR6vbMrkOVsnOQRPPM=/0x0:8000x5312/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/a/g/JGaY6aQu2PVl41WT2psg/wild-rift-base.jpg"
+    }
+  ],
+
+  "all": [
+    {
+      "id": "5da60dd5-8f93-4899-8d7f-9417f2b9e53a",
+      "category": "Séries", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://cdn.ome.lt/iy6g36PKlFpGI7Tau418xBtTiBE=/1200x630/smart/extras/conteudos/ricknegan_XD7dm3O.jpg"
+    },
+    {
+      "id": "e7c11c96-e821-4796-963c-a6a786f92763",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://www.gannett-cdn.com/presto/2021/02/06/PFSU/b009d431-cc9a-4a12-9073-944f3c2bd0fe-Attack-On-Titan-Season-4-Episode-5-Release-Date-And.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "id": "8219b540-a4a7-4120-84f6-e6dfb2e039ec",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://sm.ign.com/ign_br/blogroll/l/league-of-/league-of-legends-mobile-new-screenshots-and-gameplay_sajh.jpg"
+    },
+    {
+      "id": "9cd0d2a8-9ead-4d81-b95d-a44d1e464444",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://c4.wallpaperflare.com/wallpaper/146/91/708/anime-naruto-nagato-naruto-pain-naruto-wallpaper-thumb.jpg"
+    },
+    {
+      "id": "a1932bb7-8481-43dc-9f4b-79132501918b",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://poltronanerd.com.br/wp-content/uploads/2021/08/deadpool.jpg"
+    },
+    {
+      "id": "57862604-711b-480f-900f-59b705dd79f6",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://wallup.net/wp-content/uploads/2016/01/20309-Minecraft-video_games-Steve-skeleton-pigs.jpg"
+    },
+    {
+      "id": "ee4bfdd5-1629-458d-8589-ea9e9aa01140",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://godrichollowhome.files.wordpress.com/2019/03/running-through-the-woods.jpg"
+    },
+    {
+      "id": "cf8f44bd-8930-436b-913d-72ea64a27046",
+      "category": "Séries", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/09/legiao_i8wa3yc2Fpfj.jpg.jpeg"
+    },
+    {
+      "id": "36547a91-db9e-4e69-af95-fe2156c96ed9",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://c4.wallpaperflare.com/wallpaper/146/91/708/anime-naruto-nagato-naruto-pain-naruto-wallpaper-thumb.jpg"
+    },
+    {
+      "id": "f33242e3-4947-41a1-9c65-82926ff0f7ef",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://poltronanerd.com.br/wp-content/uploads/2021/08/deadpool.jpg"
+    },
+    {
+      "id": "bc1e43c5-7278-4df1-a911-7cafeff703bf",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://wallup.net/wp-content/uploads/2016/01/20309-Minecraft-video_games-Steve-skeleton-pigs.jpg"
+    },
+    {
+      "id": "f73c29dd-800f-4ec5-8394-d022642fac0e",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://godrichollowhome.files.wordpress.com/2019/03/running-through-the-woods.jpg"
+    },
+    {
+      "id": "19a5c662-fa17-4d50-9de9-6429e1f92b01",
+      "category": "Séries", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/09/legiao_i8wa3yc2Fpfj.jpg.jpeg"
+    },
+    {
+      "id": "89881f6e-630c-47e2-a3ab-442839674390",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbRsTIormqjoz9V_08GJbcQCOfPi49i2uIDm6BksgCe09N_Alh7dCAMFZy_O4kA-vGB8_V6iszQMC6go_BEdr-klDLxw.jpg?r=8cc"
+    },
+    {
+      "id": "d6ea7a7c-f305-41b4-87f2-3cb0c6e954c7",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://static01.nyt.com/images/2020/10/05/arts/05social-network01/05social-network01-superJumbo-v3.jpg"
+    },
+    {
+      "id": "cf38a8c2-a967-4f5e-bf06-cfbdc48735c5",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://a-static.besthdwallpaper.com/god-of-war-kratos-och-havsorm-tapet-2800x2100-18712_28.jpg"
+    },
+    {
+      "id": "2a21fbbd-e9a4-4c14-814f-0d0ca290c12a",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://cdn.vox-cdn.com/thumbor/SgV4D-ew5S-EjifVrSTVep_RkQI=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20010160/GHI_WindRises_Select4.jpg"
+    },
+    {
+      "id": "cffbea46-8214-4b3a-8783-bf61f908502f",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://viciados.net/wp-content/uploads/2021/04/GTA-5-PlayStation-5-Rockstar-Games-Sony-2021.jpg"
+    },
+    {
+      "id": "6ae1f98f-19d9-4bbe-96d8-9edd21699ef3",
+      "category": "Séries", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/524/451/BRAND_THC_VIKG_195080_TVE_000_2398_060_20161128_00_HD.jpg"
+    },
+    {
+      "id": "cdaea55a-ad10-4732-bfa6-aec776f0a684",
+      "category": "Filmes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://post-phinf.pstatic.net/MjAyMDEwMjhfMjUg/MDAxNjAzODYyNDEwMjA3.YdZ_kglzKsGxbrMfB8YeXfeujr1GP5zty_itPq-qwwEg.3DLl9RpTJv-l9QgW2n1L4c-Ki0O9P0k0bYd69HWcq_Eg.PNG/5.png"
+    },
+    {
+      "id": "c3f9581a-5ca4-455e-ac19-7a714ca348a0",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "http://modomeu.com/wp-content/uploads/2018/11/kimi-no-na-wa-your-name-makoto-shinkai-cover.jpg"
+    },
+    {
+      "id": "93fa3a16-47d4-439a-ac13-e0d7ba309a09",
+      "category": "Games", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://s2.glbimg.com/cf5AJdM5xnR6vbMrkOVsnOQRPPM=/0x0:8000x5312/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/a/g/JGaY6aQu2PVl41WT2psg/wild-rift-base.jpg"
+    }
+  ]
+}

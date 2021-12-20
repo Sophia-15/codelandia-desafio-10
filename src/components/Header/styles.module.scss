@@ -1,0 +1,53 @@
+.header {
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+  height: 5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  h1 {
+    color: var(--purple-500);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+  }
+
+  ul {
+    display: flex;
+    align-items: center;
+    gap: 3.75rem;
+
+    li, a {
+      color: var(--gray-250);
+      font-weight: 500;
+      transition: color .4s;
+      cursor: pointer; 
+
+      &:hover {
+        color: var(--gray-50);
+      }
+    }
+  }
+
+  button {
+    border: 1px solid var(--purple-500);
+    border-radius: 1.875rem;
+
+    padding: .3125rem 1.25rem;
+
+    background: transparent;
+
+    font-family: 'Lexend Deca', sans-serif;
+    color: var(--gray-50);
+    font-size: 14px;
+
+    transition: background-color .4s;
+    cursor: pointer; 
+
+    &:hover {
+      background-color: var(--purple-500);
+    }
+  }
+}
