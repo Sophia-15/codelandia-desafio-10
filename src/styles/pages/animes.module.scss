@@ -1,0 +1,81 @@
+.animeContainer {
+  width: 100%;
+  max-width: 1120px;
+  margin: 90px auto 0;
+}
+
+.animeBanner {
+  position: relative;
+
+  img {
+    width: 100%;
+    height: 18.75rem;
+    object-fit: cover;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 99%;
+    background: linear-gradient(0.01deg, #13131F 0.01%, rgba(19, 19, 31, 0) 99.99%);
+    z-index: 1;
+  }
+
+  h1, p {
+    position: absolute;
+    z-index: 2;
+  }
+
+  h1 {
+    top: 5.1875rem;
+    left: 2.5rem;
+    font-size: 3rem;
+    color: var(--gray-50);
+  }
+
+  p {
+    margin-top: 9.5625rem;
+    left: 2.8125rem;
+    font-size: 1.25rem;
+    color: var(--gray-250);
+    width: 30.75rem;
+    line-height: 2rem;
+  }
+}
+
+.searchContainer {
+  margin-top: 2.625rem;
+  position: relative;
+
+  input {
+    width: 100%;
+    padding: 1rem 1.5625rem;
+
+    border: none;
+    outline: none;
+    background-color: var(--gray-600);
+    color: var(--gray-50);
+
+    font-size: 1.25rem;
+    font-family: 'Lexend Deca', sans-serif;
+  }
+
+  svg {
+    position: absolute;
+    right: 1.5625rem;
+    top: .84375rem;
+    color: #989898;
+
+    font-size: 1.875rem;
+  }
+}
+
+.animeNewsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 338px);
+  justify-content: space-between;
+  margin-top: 6.25rem;
+}

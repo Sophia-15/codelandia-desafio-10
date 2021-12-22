@@ -3,10 +3,11 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { Footer } from '../components/Footer';
 
-import { Header } from '../components/Header';
+import { MediumNewsArticle } from '../components/MediumNewsArticle';
 import { MostRecentNewsList } from '../components/MostRecentNewsList';
+import { Header } from '../components/Header';
 import { api } from '../services/api';
-import styles from './home.module.scss';
+import styles from '../styles/pages/home.module.scss';
 
 export type Post = {
   id: string;
@@ -32,6 +33,7 @@ export default function Home({
         <title>Home | Naped</title>
       </Head>
       <Header />
+
       <main className={styles.mainContainer}>
         <div className={styles.headerMain}>
           <h1>
@@ -102,18 +104,7 @@ export default function Home({
           <aside className={styles.weekNewsContainer}>
             <h1>Notícias da Semana</h1>
             {weeklyNews.map((news) => (
-              <article key={news.id} className={`${styles.weekNews}`}>
-                <span> {news.category} </span>
-                <img
-                  src={news.image}
-                  alt={news.category}
-                />
-                <Link href={`/news/${news.id}`}>
-                  <p>
-                    {news.description}
-                  </p>
-                </Link>
-              </article>
+              <MediumNewsArticle news={news} key={news.id} />
             ))}
           </aside>
         </section>

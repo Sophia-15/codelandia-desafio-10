@@ -4,7 +4,9 @@ import styles from './styles.module.scss';
 export function Header() {
   return (
     <header className={styles.header}>
-      <h1>Naped</h1>
+      <Link href="/">
+        <h1>Naped</h1>
+      </Link>
 
       <ul>
         <li>
@@ -12,10 +14,26 @@ export function Header() {
             <a>Home</a>
           </Link>
         </li>
-        <li>Séries</li>
-        <li>Filmes</li>
-        <li>Animes</li>
-        <li>Games</li>
+        <li>
+          <Link href="/series">
+            <a>Séries</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/filmes">
+            <a>Filmes</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/animes">
+            <a>Animes</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/games">
+            <a>Games</a>
+          </Link>
+        </li>
       </ul>
 
       <button type="button">

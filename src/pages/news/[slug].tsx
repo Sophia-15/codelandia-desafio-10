@@ -18,6 +18,7 @@ export default function News({ news }: NewsProps) {
         <title>{news.title} | Naped</title>
       </Head>
       <Header />
+
       <main className={styles.slugContainer}>
         <div className={styles.newsHeader}>
           <h1>{news.title}</h1>

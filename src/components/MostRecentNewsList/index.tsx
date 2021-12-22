@@ -1,8 +1,8 @@
-import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { Post } from '../../pages';
 import { api } from '../../services/api';
 import styles from './styles.module.scss';
+import { MediumNewsArticle } from '../MediumNewsArticle';
 
 export function MostRecentNewsList() {
   const [mostRecentNews, setMostRecentNews] = useState<Post[]>([]);
@@ -25,18 +25,7 @@ export function MostRecentNewsList() {
       <div className={styles.mostRecentNewsContainer}>
 
         {mostRecentNews.map((news) => (
-          <article key={news.id} className={styles.news}>
-            <span> {news.category} </span>
-            <img
-              src={news.image}
-              alt={news.category}
-            />
-            <Link href={`/news/${news.id}`}>
-              <p>
-                {news.description}
-              </p>
-            </Link>
-          </article>
+          <MediumNewsArticle key={news.id} news={news} />
         ))}
       </div>
     </section>

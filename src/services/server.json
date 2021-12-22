@@ -363,6 +363,49 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
       "timestamp": 1639925248000,
       "image": "https://s2.glbimg.com/cf5AJdM5xnR6vbMrkOVsnOQRPPM=/0x0:8000x5312/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/a/g/JGaY6aQu2PVl41WT2psg/wild-rift-base.jpg"
+    },
+    {
+      "id": "3e3c18ec-b88c-42d3-8fa3-6632f4857212",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://wallpaperwaifu.com/wp-content/uploads/2021/03/kid-goku-dragon-ball-thumb.jpg"
+    },
+    {
+      "id": "97618d6a-2118-422f-81ce-4faf4d8b87a9",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://media.comicbook.com/2021/02/demon-slayer-live-action-movie-hollywood-blockbuster-anime-manga-1257283.jpeg?auto=webp"
+    }
+  ],
+
+  "animes": [
+    {
+      "id": "2a21fbbd-e9a4-4c14-814f-0d0ca290c12a",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://cdn.vox-cdn.com/thumbor/SgV4D-ew5S-EjifVrSTVep_RkQI=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20010160/GHI_WindRises_Select4.jpg"
+    },
+    {
+      "id": "3e3c18ec-b88c-42d3-8fa3-6632f4857212",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://wallpaperwaifu.com/wp-content/uploads/2021/03/kid-goku-dragon-ball-thumb.jpg"
+    },
+    {
+      "id": "97618d6a-2118-422f-81ce-4faf4d8b87a9",
+      "category": "Animes", 
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor...",
+      "timestamp": 1639925248000,
+      "image": "https://media.comicbook.com/2021/02/demon-slayer-live-action-movie-hollywood-blockbuster-anime-manga-1257283.jpeg?auto=webp"
     }
   ]
 }
