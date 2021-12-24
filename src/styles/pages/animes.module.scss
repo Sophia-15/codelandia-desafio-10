@@ -1,7 +1,7 @@
 .animeContainer {
   width: 100%;
   max-width: 1120px;
-  margin: 90px auto 0;
+  margin: 146px auto 0;
 }
 
 .animeBanner {
@@ -78,4 +78,26 @@
   grid-template-columns: repeat(3, 338px);
   justify-content: space-between;
   margin-top: 6.25rem;
+}
+
+@media (max-width: 1180px) {
+  .animeContainer {
+    width: 95%;
+  }
+
+  .animeNewsContainer {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+
+    article img {
+      width: 100%;      
+    }
+  }  
+}
+
+@media (max-width: 650px) {
+  .animeNewsContainer {
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }  
 }

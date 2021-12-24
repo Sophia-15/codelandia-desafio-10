@@ -27,6 +27,10 @@
   background-clip: content-box;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-color: var(--purple-900);
 }

@@ -5,7 +5,9 @@ export default function Error404() {
   return (
     <>
       <header className={styles.headerError}>
-        <h1>Naped</h1>
+        <Link href="/">
+          <h1>Naped</h1>
+        </Link>
 
         <ul>
           <li>404</li>

@@ -106,6 +106,7 @@ export default function Home({
             {weeklyNews.map((news) => (
               <MediumNewsArticle news={news} key={news.id} />
             ))}
+
           </aside>
         </section>
 

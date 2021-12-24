@@ -26,6 +26,8 @@
     color: var(--purple-500);
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
+
+    cursor: pointer;
   }
 
   ul {
@@ -101,5 +103,53 @@
     margin-top: 2.75rem;
     width: 18.625rem;
     color: var(--gray-250);
+  }
+}
+
+@media (max-width: 1180px) {
+  .headerError {
+    width: 95%;
+
+    ul {
+      display: none;
+    }
+  }
+
+  .mainErrorContainer {
+    width: 95%;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .leftSection {
+    text-align: center;
+    margin-bottom: 5rem;
+
+    h1, p {
+      width: 30rem;
+    }
+  }
+
+  .rightSection {
+    margin: 5rem 0;
+    align-self: center;
+  }
+}
+
+@media (max-width: 420px) {
+  .leftSection {
+    margin: 3%;
+
+    h1, p {
+      width: 100%;
+    }
+  }
+
+  .rightSection {
+    margin: 3%;
+
+    img {
+      width: 100%;
+    }
   }
 }

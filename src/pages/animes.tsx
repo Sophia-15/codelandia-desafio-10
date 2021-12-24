@@ -43,6 +43,7 @@ export default function Animes({ animeNews }: AnimePageProps) {
               <MediumNewsArticle news={news} key={news.id} />
               <MediumNewsArticle news={news} key={news.id} />
               <MediumNewsArticle news={news} key={news.id} />
+              <MediumNewsArticle news={news} key={news.id} />
             </>
           ))}
         </section>

@@ -15,7 +15,7 @@
     &::after {
       content: '';
       position: absolute;
-      width: 22%;
+      width: 17rem;
       height: 3px;
       bottom: -15px;
       left: 0;
@@ -26,7 +26,24 @@
 
 .mostRecentNewsContainer {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 338px);
   grid-template-rows: repeat(2, 1fr);
+  justify-content: space-between;
   margin-top: 55px;
+}
+
+@media (max-width: 1122px) {
+
+  .mostRecentNewsContainer {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+}
+
+@media (max-width: 625px) {
+
+  .mostRecentNewsContainer {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
 }
