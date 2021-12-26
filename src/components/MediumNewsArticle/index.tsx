@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { Post } from '../../pages';
+import { CategoryIndicator } from '../CategoryIndicator';
 import styles from './styles.module.scss';
 
 interface MediumNewsArticleProps {
@@ -9,7 +10,9 @@ interface MediumNewsArticleProps {
 export function MediumNewsArticle({ news }: MediumNewsArticleProps) {
   return (
     <article className={styles.mediumNewsArticle}>
-      <span> {news.category} </span>
+      <CategoryIndicator
+        category={news.category}
+      />
       <img
         src={news.image}
         alt={news.category}

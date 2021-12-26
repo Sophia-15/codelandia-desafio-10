@@ -8,24 +8,6 @@
     object-fit: cover;
   }
 
-  span {
-    position: absolute;
-
-    background-color: var(--purple-500);
-    padding: .1875rem 1.0625rem;
-    border-radius: 3px;
-
-    color: var(--gray-50);
-    font-family: 'Lexend Deca', sans-serif;
-    font-size: .75rem;
-
-    z-index: 2;
-
-    top: .625rem;
-    left: .625rem;
-  }
-
-
   p {
     position: absolute;
 

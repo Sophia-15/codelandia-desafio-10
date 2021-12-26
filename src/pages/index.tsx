@@ -119,9 +119,9 @@ export default function Home({
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const { data: latestNews } = await api.get('latest_news');
-  const { data } = await api.get('daily_news');
-  const { data: weeklyNews } = await api.get('weekly_news');
+  const { data: latestNews } = await api.get<Post[]>('latest_news');
+  const { data } = await api.get<Post[]>('daily_news');
+  const { data: weeklyNews } = await api.get<Post[]>('weekly_news');
 
   const dailyNews = data.map((news) => ({
     id: news.id,

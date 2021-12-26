@@ -54,7 +54,7 @@ export default function Animes({ animeNews }: AnimePageProps) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const { data: animeNews } = await api.get('animes');
+  const { data: animeNews } = await api.get<Post[]>('animes');
 
   return {
     props: {
